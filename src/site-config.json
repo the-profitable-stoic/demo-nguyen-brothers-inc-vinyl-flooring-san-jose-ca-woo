@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Nguyen Brothers Inc - Vinyl Flooring San Jose CA, Wood Flooring Services, Vinyl Flooring Installation",
+    "phone": "+14086186997",
+    "category": "flooring installer",
+    "city": "San Jose",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "San Jose's Premier Flooring Experts",
+      "heroSubline": "Nguyen Brothers Inc. provides expert vinyl and wood flooring solutions. Quality craftsmanship and lasting beauty for your home or business.",
+      "aboutTitle": "Built on Craftsmanship, Rooted in San Jose",
+      "aboutText": [
+        "Nguyen Brothers Inc. started with a simple vision: to bring superior flooring services to the San Jose area with honesty and skill. Founded by two brothers with a passion for woodworking and a dedication to customer satisfaction, we've grown from a small family operation into a trusted name in flooring.",
+        "We believe in a hands-on approach, treating every project as if it were our own home. We prioritize clear communication, meticulous attention to detail, and using only the highest-quality materials to ensure lasting results and happy customers. We stand behind our work, offering warranties and ongoing support to give you peace of mind.",
+        "As a local business, we're deeply committed to the San Jose community. We actively support local schools and charities, and we strive to minimize our environmental impact through responsible sourcing and waste reduction practices. We're proud to contribute to the beauty and prosperity of our city."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Precise, durable flooring installation by experienced professionals."
+        },
+        {
+          "title": "Wide Selection",
+          "description": "Extensive range of vinyl and wood flooring options to suit any style and budget."
+        },
+        {
+          "title": "Lasting Quality",
+          "description": "Premium materials and meticulous workmanship ensure long-lasting beauty and value."
+        },
+        {
+          "title": "Customer Satisfaction",
+          "description": "Dedicated to exceeding your expectations with personalized service and reliable support."
+        }
+      ],
+      "ctaHeadline": "Transform Your Space Today!",
+      "ctaSubline": "Get a free estimate and discover the perfect flooring solution for your home or business."
+    },
+    "services": [
+      {
+        "slug": "vinyl-flooring-installation",
+        "name": "Vinyl Flooring Installation",
+        "shortDescription": "Durable, stylish, and affordable vinyl flooring installed with precision and care.",
+        "description": "Vinyl flooring is an excellent choice for San Jose homes and businesses due to its resilience and water resistance, especially important given our occasional winter rains. Nguyen Brothers Inc. specializes in expert vinyl flooring installation, offering a wide array of styles, from luxury vinyl planks (LVP) that mimic hardwood to classic vinyl tiles. Our team ensures a flawless finish, starting with meticulous subfloor preparation to guarantee a level and stable surface. We handle every aspect of the installation process, from precise measurements and cutting to secure adhesion and seamless transitions. \n\nWe work with top-quality vinyl brands known for their durability and aesthetic appeal, offering a range of colors, patterns, and textures to complement any décor. Whether you're renovating a kitchen, bathroom, or entire home, our vinyl flooring solutions provide a cost-effective and beautiful upgrade. We understand the nuances of working in older San Jose homes, ensuring minimal disruption and maximum satisfaction. Our goal is to provide you with a flooring solution that not only looks great but also stands the test of time, even with heavy foot traffic and the occasional spill. \n\nWe also offer expert advice on selecting the right type of vinyl flooring for your specific needs and budget, considering factors like moisture levels, foot traffic, and aesthetic preferences. Our commitment to quality and customer satisfaction makes us the premier choice for vinyl flooring installation in San Jose.",
+        "process": [
+          "Step 1: Consultation and Measurement: Discuss your needs and accurately measure the space.",
+          "Step 2: Subfloor Preparation: Ensure a clean, level, and stable subfloor for optimal adhesion.",
+          "Step 3: Precise Installation: Cut and install vinyl flooring with meticulous attention to detail.",
+          "Step 4: Finishing Touches: Secure transitions, clean the area, and inspect the finished product."
+        ],
+        "benefits": [
+          "Water Resistance",
+          "Durability",
+          "Affordability",
+          "Easy Maintenance"
+        ],
+        "faq": [
+          {
+            "question": "How long does vinyl flooring installation take?",
+            "answer": "Typically, a standard room can be completed in one to two days, depending on the size and complexity of the project. We provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "Is vinyl flooring suitable for bathrooms?",
+            "answer": "Yes, vinyl flooring is an excellent choice for bathrooms due to its water resistance and ease of cleaning. We recommend luxury vinyl plank (LVP) for its enhanced durability and realistic wood look."
+          },
+          {
+            "question": "How do I clean and maintain vinyl flooring?",
+            "answer": "Regular sweeping and mopping with a mild detergent are usually sufficient. Avoid abrasive cleaners and excessive water to prolong the life of your vinyl floor."
+          }
+        ]
+      },
+      {
+        "slug": "wood-flooring-installation",
+        "name": "Wood Flooring Installation",
+        "shortDescription": "Timeless elegance and lasting value with our expert wood flooring installation services.",
+        "description": "Wood flooring adds warmth and sophistication to any San Jose home. Nguyen Brothers Inc. specializes in the installation of various wood flooring types, including hardwood, engineered wood, and bamboo. We understand the unique challenges of installing wood flooring in the Bay Area, considering factors like humidity and potential seismic activity. Our experienced team ensures proper acclimation of the wood to your home's environment to minimize expansion and contraction issues. \n\nWe offer a wide selection of wood species, stains, and finishes to match your personal style and complement your home's architecture. Whether you prefer the classic look of oak, the rich tones of walnut, or the sustainable appeal of bamboo, we have the perfect wood flooring solution for you. Our installation process includes meticulous subfloor preparation, precise cutting and fitting, and expert finishing to ensure a flawless and durable result. \n\nWe also provide guidance on selecting the right type of wood flooring for your specific needs and lifestyle, considering factors like foot traffic, pet ownership, and maintenance requirements. Our commitment to quality craftsmanship and customer satisfaction makes us the trusted choice for wood flooring installation in San Jose. We take pride in transforming homes with the timeless beauty and lasting value of wood flooring.",
+        "process": [
+          "Step 1: Consultation and Design: Discuss your vision and select the perfect wood flooring.",
+          "Step 2: Acclimation: Allow the wood to adjust to your home's humidity and temperature.",
+          "Step 3: Precise Installation: Install the wood flooring with expert precision and care.",
+          "Step 4: Finishing and Sealing: Apply protective finishes to enhance durability and beauty."
+        ],
+        "benefits": [
+          "Timeless Beauty",
+          "Increased Home Value",
+          "Durability",
+          "Natural Warmth"
+        ],
+        "faq": [
+          {
+            "question": "What is the difference between hardwood and engineered wood flooring?",
+            "answer": "Hardwood flooring is made from solid wood planks, while engineered wood flooring has a core of plywood or other composite material with a thin layer of hardwood veneer. Engineered wood is more resistant to moisture and temperature changes."
+          },
+          {
+            "question": "How often should I refinish my wood floors?",
+            "answer": "Typically, wood floors should be refinished every 7-10 years, depending on foot traffic and wear and tear. We offer professional wood floor refinishing services to restore the beauty of your floors."
+          },
+          {
+            "question": "Can wood flooring be installed over concrete?",
+            "answer": "Yes, wood flooring can be installed over concrete with proper subfloor preparation and moisture mitigation. We use specialized techniques to ensure a stable and long-lasting installation."
+          }
+        ]
+      },
+      {
+        "slug": "flooring-repair",
+        "name": "Flooring Repair Services",
+        "shortDescription": "Expert repairs to restore the beauty and functionality of your existing floors.",
+        "description": "Even the most durable flooring can experience damage over time. Nguyen Brothers Inc. offers comprehensive flooring repair services to address issues like scratches, dents, water damage, and loose tiles. We understand the importance of maintaining the integrity and appearance of your floors, and we're committed to providing prompt and reliable repair solutions. Our experienced technicians can assess the damage and recommend the most effective repair techniques to restore your floors to their original condition. \n\nWe handle repairs for all types of flooring, including vinyl, wood, tile, and laminate. Whether you have a small scratch on your hardwood floor or a water-damaged section of vinyl flooring, we have the expertise and tools to fix it right. We use high-quality materials and proven techniques to ensure a seamless and long-lasting repair. \n\nWe also offer preventative maintenance services to help you avoid costly repairs in the future. Our team can provide advice on proper cleaning techniques, moisture control, and furniture protection to extend the life of your floors. With Nguyen Brothers Inc., you can trust that your floors are in good hands.",
+        "process": [
+          "Step 1: Assessment: Evaluate the damage and determine the best repair approach.",
+          "Step 2: Preparation: Prepare the area for repair, including cleaning and removing debris.",
+          "Step 3: Repair: Perform the necessary repairs using high-quality materials and techniques.",
+          "Step 4: Finishing: Blend the repaired area seamlessly with the surrounding flooring."
+        ],
+        "benefits": [
+          "Cost-Effective Solution",
+          "Restores Appearance",
+          "Extends Floor Life",
+          "Prevents Further Damage"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my floors need repair?",
+            "answer": "Signs of flooring damage include scratches, dents, water damage, loose tiles, and squeaking sounds. If you notice any of these issues, it's best to have your floors inspected by a professional."
+          },
+          {
+            "question": "Can you repair water-damaged wood floors?",
+            "answer": "Yes, we can repair water-damaged wood floors, but the extent of the damage will determine the repair options. In some cases, we may need to replace damaged planks."
+          },
+          {
+            "question": "How long does flooring repair take?",
+            "answer": "The duration of flooring repair depends on the extent of the damage and the type of flooring. Minor repairs can often be completed in a few hours, while more extensive repairs may take a day or two."
+          }
+        ]
+      },
+      {
+        "slug": "laminate-flooring-installation",
+        "name": "Laminate Flooring Installation",
+        "shortDescription": "Affordable and stylish laminate flooring solutions, expertly installed for lasting beauty.",
+        "description": "Laminate flooring offers a cost-effective and versatile alternative to hardwood and other flooring options. Nguyen Brothers Inc. provides professional laminate flooring installation services for homes and businesses in San Jose. Laminate flooring is known for its durability, ease of maintenance, and realistic wood-look designs. It's an excellent choice for high-traffic areas and homes with pets or children. \n\nWe offer a wide selection of laminate flooring styles, colors, and textures to suit any décor. Our experienced team ensures a flawless installation, starting with proper subfloor preparation and precise cutting and fitting. We use high-quality underlayment to provide cushioning and sound insulation, enhancing the comfort and performance of your laminate floor. \n\nWe also provide guidance on selecting the right type of laminate flooring for your specific needs and budget, considering factors like wear resistance, moisture resistance, and aesthetic preferences. Our commitment to quality and customer satisfaction makes us the trusted choice for laminate flooring installation in San Jose. We transform spaces with beautiful and durable laminate floors that stand the test of time.",
+        "process": [
+          "Step 1: Consultation and Selection: Choose the perfect laminate flooring for your space.",
+          "Step 2: Subfloor Preparation: Ensure a level and stable subfloor for optimal results.",
+          "Step 3: Precise Installation: Install the laminate flooring with expert precision.",
+          "Step 4: Finishing Touches: Secure transitions and clean the area for a polished look."
+        ],
+        "benefits": [
+          "Affordability",
+          "Durability",
+          "Easy Maintenance",
+          "Stylish Designs"
+        ],
+        "faq": [
+          {
+            "question": "Is laminate flooring waterproof?",
+            "answer": "While most laminate flooring is water-resistant, it is not completely waterproof. We recommend using waterproof laminate flooring in areas prone to moisture, such as bathrooms and kitchens."
+          },
+          {
+            "question": "How do I clean laminate flooring?",
+            "answer": "Regular sweeping and mopping with a laminate floor cleaner are usually sufficient. Avoid using excessive water or abrasive cleaners."
+          },
+          {
+            "question": "Can laminate flooring be installed over existing flooring?",
+            "answer": "In some cases, laminate flooring can be installed over existing flooring, but it's essential to ensure that the existing floor is level and stable. We can assess your specific situation and recommend the best approach."
+          }
+        ]
+      },
+      {
+        "slug": "baseboard-installation",
+        "name": "Baseboard Installation & Repair",
+        "shortDescription": "Add the perfect finishing touch with our professional baseboard installation and repair services.",
+        "description": "Baseboards are the unsung heroes of interior design, providing a clean transition between walls and floors while protecting against scuffs and damage. Nguyen Brothers Inc. offers expert baseboard installation and repair services to enhance the beauty and functionality of your San Jose home. Whether you're installing new flooring or simply want to upgrade your existing baseboards, we have the skills and experience to deliver exceptional results. \n\nWe offer a wide selection of baseboard styles, materials, and finishes to complement any décor. From classic wood baseboards to modern MDF options, we can help you choose the perfect baseboards for your home. Our installation process includes precise cutting, fitting, and fastening to ensure a seamless and professional look. \n\nWe also provide baseboard repair services to address issues like cracks, dents, and water damage. Our experienced technicians can restore your baseboards to their original condition, saving you the cost of replacement. With Nguyen Brothers Inc., you can trust that your baseboards will be installed or repaired with the utmost care and attention to detail.",
+        "process": [
+          "Step 1: Selection and Measurement: Choose the perfect baseboard style and accurately measure the perimeter of the room.",
+          "Step 2: Precise Cutting: Cut the baseboards to the correct length and angle for a seamless fit.",
+          "Step 3: Secure Installation: Fasten the baseboards securely to the wall using nails or adhesive.",
+          "Step 4: Finishing Touches: Caulk and paint the baseboards for a polished and professional look."
+        ],
+        "benefits": [
+          "Enhanced Aesthetics",
+          "Protection from Damage",
+          "Increased Home Value",
+          "Professional Finish"
+        ],
+        "faq": [
+          {
+            "question": "What is the best type of baseboard for my home?",
+            "answer": "The best type of baseboard depends on your personal style, budget, and the overall design of your home. Wood baseboards are a classic choice, while MDF baseboards are more affordable and resistant to moisture."
+          },
+          {
+            "question": "How do I repair damaged baseboards?",
+            "answer": "Minor damage to baseboards can often be repaired with wood filler or caulk. More extensive damage may require replacement of the damaged section."
+          },
+          {
+            "question": "Can you paint my baseboards?",
+            "answer": "Yes, we offer baseboard painting services to match your existing décor. We use high-quality paints and techniques to ensure a durable and long-lasting finish."
+          }
+        ]
+      },
+      {
+        "slug": "subfloor-preparation",
+        "name": "Subfloor Preparation Services",
+        "shortDescription": "Ensure a solid foundation for your new flooring with our expert subfloor preparation services.",
+        "description": "The subfloor is the foundation of your flooring system, and proper preparation is essential for a successful and long-lasting installation. Nguyen Brothers Inc. offers comprehensive subfloor preparation services to ensure a level, stable, and clean surface for your new flooring. Whether you're installing vinyl, wood, tile, or laminate, we have the expertise and equipment to prepare your subfloor properly. \n\nOur subfloor preparation services include leveling, patching, cleaning, and moisture testing. We use specialized tools and techniques to address any issues with your subfloor, such as cracks, unevenness, or moisture damage. We also ensure that the subfloor is free of debris and contaminants that could interfere with the adhesion of your new flooring. \n\nA properly prepared subfloor will not only ensure a beautiful and durable flooring installation but also prevent costly problems down the road, such as squeaking floors, uneven surfaces, and moisture damage. With Nguyen Brothers Inc., you can trust that your subfloor will be prepared to the highest standards.",
+        "process": [
+          "Step 1: Inspection: Thoroughly inspect the subfloor for any damage or imperfections.",
+          "Step 2: Leveling: Level the subfloor to create a smooth and even surface.",
+          "Step 3: Cleaning: Clean the subfloor to remove any debris or contaminants.",
+          "Step 4: Moisture Testing: Test the subfloor for moisture levels to prevent future problems."
+        ],
+        "benefits": [
+          "Ensures Proper Flooring Installation",
+          "Prevents Future Problems",
+          "Increases Flooring Lifespan",
+          "Provides a Stable Foundation"
+        ],
+        "faq": [
+          {
+            "question": "Why is subfloor preparation important?",
+            "answer": "Subfloor preparation is essential for ensuring a level, stable, and clean surface for your new flooring. A properly prepared subfloor will prevent problems like squeaking floors, uneven surfaces, and moisture damage."
+          },
+          {
+            "question": "How do I know if my subfloor needs repair?",
+            "answer": "Signs that your subfloor needs repair include cracks, unevenness, and moisture damage. If you notice any of these issues, it's best to have your subfloor inspected by a professional."
+          },
+          {
+            "question": "Can you repair a damaged subfloor?",
+            "answer": "Yes, we can repair damaged subfloors using specialized techniques and materials. We can address issues like cracks, unevenness, and moisture damage to ensure a solid foundation for your new flooring."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "San Jose",
+        "slug": "san-jose-ca",
+        "state": "CA",
+        "content": "Nguyen Brothers Inc is proud to offer expert vinyl and wood flooring services to the residents and businesses of San Jose, CA. With years of experience serving the Bay Area, we understand the unique needs and styles of San Jose homeowners. We are committed to providing top-quality flooring installation and repair services, ensuring your floors look beautiful and last for years to come.\n\nWhether you're looking to upgrade your home with new hardwood floors or need durable and stylish vinyl flooring for your commercial space, Nguyen Brothers Inc has you covered. We offer a wide selection of flooring options to suit every taste and budget, and our experienced team will work with you to find the perfect solution for your needs. We pride ourselves on our attention to detail and commitment to customer satisfaction.",
+        "localContext": "San Jose, the heart of Silicon Valley, is known for its innovative spirit and diverse population. Nguyen Brothers Inc understands the unique needs of San Jose residents and businesses, providing flooring solutions that are both stylish and functional.",
+        "nearbyAreas": [
+          "Santa Clara",
+          "Sunnyvale",
+          "Milpitas"
+        ]
+      },
+      {
+        "city": "Santa Clara",
+        "slug": "santa-clara-ca",
+        "state": "CA",
+        "content": "Nguyen Brothers Inc extends its flooring expertise to Santa Clara, CA, providing top-notch vinyl and wood flooring services. We understand the specific needs of Santa Clara homes and businesses, offering customized flooring solutions to enhance any space. Our commitment to quality and customer satisfaction makes us the preferred choice for flooring projects in Santa Clara.\n\nFrom helping you select the perfect flooring material to expert installation and maintenance, Nguyen Brothers Inc is your trusted partner. We offer a wide array of services, including hardwood installation, vinyl flooring, and floor repairs, all done with the utmost professionalism and attention to detail.",
+        "localContext": "Santa Clara, home to Levi's Stadium and a thriving tech industry, demands high-quality and modern flooring solutions. Nguyen Brothers Inc provides flooring options that meet the aesthetic and functional needs of this vibrant city.",
+        "nearbyAreas": [
+          "San Jose",
+          "Sunnyvale",
+          "Cupertino"
+        ]
+      },
+      {
+        "city": "Sunnyvale",
+        "slug": "sunnyvale-ca",
+        "state": "CA",
+        "content": "Nguyen Brothers Inc is dedicated to providing exceptional flooring services to the residents and businesses of Sunnyvale, CA. We offer a wide range of options, from elegant hardwood to durable vinyl, ensuring that every customer finds the perfect flooring solution for their needs. Our experienced team guarantees professional installation and lasting results.\n\nWe understand that choosing the right flooring can be a significant decision, and we are here to guide you through every step of the process. Nguyen Brothers Inc prides itself on delivering superior customer service and top-quality workmanship. Whether you're renovating your home or upgrading your commercial space, we are committed to exceeding your expectations.",
+        "localContext": "Sunnyvale, a key city in Silicon Valley, requires flooring solutions to match its innovative and forward-thinking environment. Nguyen Brothers Inc offers modern and durable flooring options suitable for both residential and commercial properties.",
+        "nearbyAreas": [
+          "Santa Clara",
+          "Mountain View",
+          "Cupertino"
+        ]
+      },
+      {
+        "city": "Milpitas",
+        "slug": "milpitas-ca",
+        "state": "CA",
+        "content": "Nguyen Brothers Inc is proud to serve the community of Milpitas, CA, with our premier vinyl and wood flooring services. We offer a wide selection of flooring types, styles, and finishes to perfectly match your home or business décor. Our experienced installers ensure a flawless finish, providing long-lasting beauty and value.\n\nAt Nguyen Brothers Inc, we believe in providing exceptional customer service and quality workmanship. We take the time to understand your specific needs and preferences, offering personalized recommendations to help you achieve your vision. From initial consultation to final installation, we are committed to your satisfaction.",
+        "localContext": "Milpitas, known for its diverse community and thriving industries, benefits from high-quality and affordable flooring options. Nguyen Brothers Inc is dedicated to providing those options with expert installation and customer care.",
+        "nearbyAreas": [
+          "San Jose",
+          "Fremont",
+          "Santa Clara"
+        ]
+      },
+      {
+        "city": "Cupertino",
+        "slug": "cupertino-ca",
+        "state": "CA",
+        "content": "Nguyen Brothers Inc offers comprehensive flooring services to the residents and businesses of Cupertino, CA. We specialize in both vinyl and wood flooring, providing a wide array of options to suit any style and budget. Our expert team ensures that every installation is performed with precision and care, guaranteeing a beautiful and durable result.\n\nWe pride ourselves on our commitment to customer satisfaction and our attention to detail. Nguyen Brothers Inc understands the unique needs of Cupertino homeowners and businesses, offering customized flooring solutions that enhance any space. From helping you choose the perfect flooring material to expert installation and maintenance, we are your trusted partner.",
+        "localContext": "Cupertino, home to Apple headquarters, requires flooring solutions that reflect its modern and sophisticated environment. Nguyen Brothers Inc provides high-quality and stylish flooring options to meet the demands of this discerning community.",
+        "nearbyAreas": [
+          "Sunnyvale",
+          "Santa Clara",
+          "Los Altos"
+        ]
+      },
+      {
+        "city": "Mountain View",
+        "slug": "mountain-view-ca",
+        "state": "CA",
+        "content": "Nguyen Brothers Inc brings its expert vinyl and wood flooring services to Mountain View, CA. We understand the unique needs of Mountain View homes and businesses, offering customized flooring solutions to enhance any space. Our commitment to quality and customer satisfaction makes us the preferred choice for flooring projects in Mountain View.\n\nFrom helping you select the perfect flooring material to expert installation and maintenance, Nguyen Brothers Inc is your trusted partner. We offer a wide array of services, including hardwood installation, vinyl flooring, and floor repairs, all done with the utmost professionalism and attention to detail.",
+        "localContext": "Mountain View, a hub for tech innovation, requires flooring solutions that are both stylish and functional. Nguyen Brothers Inc provides a wide range of options to suit the diverse needs of this vibrant city.",
+        "nearbyAreas": [
+          "Sunnyvale",
+          "Palo Alto",
+          "Los Altos"
+        ]
+      },
+      {
+        "city": "Palo Alto",
+        "slug": "palo-alto-ca",
+        "state": "CA",
+        "content": "Nguyen Brothers Inc is dedicated to providing exceptional flooring services to the residents and businesses of Palo Alto, CA. We offer a wide range of options, from elegant hardwood to durable vinyl, ensuring that every customer finds the perfect flooring solution for their needs. Our experienced team guarantees professional installation and lasting results.\n\nWe understand that choosing the right flooring can be a significant decision, and we are here to guide you through every step of the process. Nguyen Brothers Inc prides itself on delivering superior customer service and top-quality workmanship. Whether you're renovating your home or upgrading your commercial space, we are committed to exceeding your expectations.",
+        "localContext": "Palo Alto, home to Stanford University, values high-quality and sophisticated flooring solutions. Nguyen Brothers Inc offers premium options to match the aesthetic and functional needs of this esteemed community.",
+        "nearbyAreas": [
+          "Mountain View",
+          "Menlo Park",
+          "Los Altos"
+        ]
+      },
+      {
+        "city": "Los Altos",
+        "slug": "los-altos-ca",
+        "state": "CA",
+        "content": "Nguyen Brothers Inc is proud to serve the community of Los Altos, CA, with our premier vinyl and wood flooring services. We offer a wide selection of flooring types, styles, and finishes to perfectly match your home or business décor. Our experienced installers ensure a flawless finish, providing long-lasting beauty and value.\n\nAt Nguyen Brothers Inc, we believe in providing exceptional customer service and quality workmanship. We take the time to understand your specific needs and preferences, offering personalized recommendations to help you achieve your vision. From initial consultation to final installation, we are committed to your satisfaction.",
+        "localContext": "Los Altos, known for its beautiful homes and affluent residents, demands high-quality and stylish flooring options. Nguyen Brothers Inc is dedicated to providing those options with expert installation and customer care.",
+        "nearbyAreas": [
+          "Palo Alto",
+          "Mountain View",
+          "Cupertino"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Vinyl Flooring Installation",
+        "text": "Nguyen Brothers installed new vinyl flooring in my kitchen, and I couldn't be happier! The team was professional, efficient, and the quality of work is outstanding. They even helped me choose the perfect flooring to match my cabinets. Highly recommend!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "David L.",
+        "rating": 4,
+        "service": "Wood Flooring Repair",
+        "text": "Had Nguyen Brothers repair some water damage on my hardwood floors in Willow Glen. They were able to match the stain perfectly, and you can't even tell there was ever any damage. Great service and fair pricing.",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Jessica M.",
+        "rating": 5,
+        "service": "Laminate Flooring Installation",
+        "text": "We used Nguyen Brothers to install laminate flooring in our basement. They were very professional and did an amazing job. The price was fair, and the installation was quick and efficient. We are very happy with the results!",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "Tom B.",
+        "rating": 5,
+        "service": "Baseboard Installation",
+        "text": "The team installed new baseboards throughout my home, and they look fantastic! They were meticulous in their work and paid attention to every detail. The house looks so much more polished now. Excellent work!",
+        "date": "2024-08-12"
+      },
+      {
+        "name": "Sarah K.",
+        "rating": 4,
+        "service": "Subfloor Preparation",
+        "text": "Nguyen Brothers prepped the subfloor before laying our new tile. They were extremely thorough and made sure everything was perfectly level. This made a huge difference in the final result. Very satisfied!",
+        "date": "2024-07-20"
+      },
+      {
+        "name": "Michael P.",
+        "rating": 5,
+        "service": "Wood Flooring Installation",
+        "text": "From start to finish, Nguyen Brothers provided excellent service. They helped us select the perfect hardwood flooring for our living room and installed it flawlessly. The team was professional, courteous, and highly skilled. We love our new floors!",
+        "date": "2024-06-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Nguyen Bros Flooring | San Jose CA",
+        "description": "Expert vinyl & wood flooring installation in San Jose. Quality, affordable services. Call +14086186997 for a free estimate!"
+      },
+      "about": {
+        "title": "About Nguyen Brothers Inc. | San Jose CA",
+        "description": "Learn about Nguyen Brothers Inc., a trusted flooring installer in San Jose. Quality craftsmanship, local expertise."
+      },
+      "services": {
+        "title": "Flooring Services | Nguyen Brothers Inc.",
+        "description": "Comprehensive flooring services in San Jose: vinyl, wood, laminate installation & repair. Get a free quote today!"
+      },
+      "contact": {
+        "title": "Contact Nguyen Brothers Inc. | San Jose",
+        "description": "Reach out to Nguyen Brothers Inc. for flooring inquiries. Call +14086186997 or fill out our contact form."
+      },
+      "reviews": {
+        "title": "Nguyen Brothers Inc. Reviews | San Jose CA",
+        "description": "Read what our satisfied customers are saying about Nguyen Brothers Inc.'s flooring services in San Jose."
+      },
+      "service-areas": {
+        "title": "Nguyen Brothers Inc. Service Areas",
+        "description": "Nguyen Brothers Inc. provides flooring services in San Jose and surrounding areas. Check our service locations."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "vinyl-flooring-installation": "/images/service-vinyl-flooring-installation.webp",
+      "wood-flooring-installation": "/images/service-wood-flooring-installation.webp",
+      "flooring-repair": "/images/service-flooring-repair.webp",
+      "laminate-flooring-installation": "/images/service-laminate-flooring-installation.webp",
+      "baseboard-installation": "/images/service-baseboard-installation.webp",
+      "subfloor-preparation": "/images/service-subfloor-preparation.webp"
+    },
+    "servicesResponsive": {
+      "vinyl-flooring-installation": {
+        "src": "/images/service-vinyl-flooring-installation.webp",
+        "srcset": "/images/service-vinyl-flooring-installation-400w.webp 400w, /images/service-vinyl-flooring-installation-800w.webp 800w, /images/service-vinyl-flooring-installation-1200w.webp 1200w, /images/service-vinyl-flooring-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "wood-flooring-installation": {
+        "src": "/images/service-wood-flooring-installation.webp",
+        "srcset": "/images/service-wood-flooring-installation-400w.webp 400w, /images/service-wood-flooring-installation-800w.webp 800w, /images/service-wood-flooring-installation-1200w.webp 1200w, /images/service-wood-flooring-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "flooring-repair": {
+        "src": "/images/service-flooring-repair.webp",
+        "srcset": "/images/service-flooring-repair-400w.webp 400w, /images/service-flooring-repair-800w.webp 800w, /images/service-flooring-repair-1200w.webp 1200w, /images/service-flooring-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "laminate-flooring-installation": {
+        "src": "/images/service-laminate-flooring-installation.webp",
+        "srcset": "/images/service-laminate-flooring-installation-400w.webp 400w, /images/service-laminate-flooring-installation-800w.webp 800w, /images/service-laminate-flooring-installation-1200w.webp 1200w, /images/service-laminate-flooring-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "baseboard-installation": {
+        "src": "/images/service-baseboard-installation.webp",
+        "srcset": "/images/service-baseboard-installation-400w.webp 400w, /images/service-baseboard-installation-800w.webp 800w, /images/service-baseboard-installation-1200w.webp 1200w, /images/service-baseboard-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "subfloor-preparation": {
+        "src": "/images/service-subfloor-preparation.webp",
+        "srcset": "/images/service-subfloor-preparation-400w.webp 400w, /images/service-subfloor-preparation-800w.webp 800w, /images/service-subfloor-preparation-1200w.webp 1200w, /images/service-subfloor-preparation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
